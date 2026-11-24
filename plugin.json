@@ -1,0 +1,12 @@
+{
+  "name": "humanizer-doan-vi",
+  "displayName": "Humanizer Điền Khung Báo Cáo BTL & Đồ Án Tiếng Việt (Chuẩn KMA + ViDetect/VietAIDetector)",
+  "version": "2.7.0",
+  "description": "Bộ công cụ điền nội dung, căn chỉnh hình ảnh và biên tập file khung .docx có sẵn dựa trên tài liệu lý thuyết đính kèm, thể hiện rõ dấu ấn nghiên cứu của sinh viên (P6), phá khuôn đoạn 4 bước đồng đều, chống văn dịch sâu & kiểm soát nhịp câu CV (viet-nhu-nguoi), đối chiếu dữ kiện P4, không chèn số trích dẫn [n] vào văn xuôi thân bài, bảo toàn OOXML Word và khử văn phong AI Tiếng Việt thực nghiệm.",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "@che-do-btl Điền nội dung vào file .docx khung Bài tập lớn dựa trên tài liệu lý thuyết đính kèm và để trống khung giữ chỗ hình ảnh",
+    "@che-do-do-an Điền nội dung vào file .docx khung Đồ án tốt nghiệp dựa trên tài liệu tham khảo đính kèm, giữ chuẩn KMA và kiểm tra văn phong AI",
+    "Rà soát văn phong AI, văn dịch sâu, cấu trúc đoạn 4 bước, nhịp câu CV và dấu ấn nghiên cứu sinh viên trên file báo cáo hiện tại"
+  ]
+}
